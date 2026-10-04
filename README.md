@@ -2,8 +2,6 @@
 
 A practical network security investigation focused on capturing and analyzing the **SSL/TLS handshake process** and examining the **server SSL certificate** using Wireshark.
 
----
-
 ## 📌 Project Overview
 
 This project demonstrates the practical analysis of secure web communication by capturing an SSL/TLS session using **Wireshark** while accessing `bluecloudsoftech.com`.
@@ -11,8 +9,6 @@ This project demonstrates the practical analysis of secure web communication by 
 The investigation focuses on observing the TLS handshake, identifying the major handshake stages, and analyzing the server's X.509 certificate and certificate chain.
 
 The captured traffic demonstrates how a secure connection is established between a client and server before encrypted application data is exchanged.
-
----
 
 ## 🎯 Objective
 
